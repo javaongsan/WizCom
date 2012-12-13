@@ -2,14 +2,14 @@
 
 /*
 Plugin Name: WizCom
-Plugin URI: http://www.wizcodersolution.com/
+Plugin URI: https://github.com/javaongsan/WizCom
 Description: Send out emails to commentor
 Version: 1.0
 Author: Bob
-Author URI: http://www.wizcodersolution.com/
+Author URI: https://github.com/javaongsan/
 */
 
-/*  Copyright YEAR  PLUGIN_AUTHOR_NAME  (email : Bob@wizcodersolution.com)
+/*  Copyright YEAR  PLUGIN_AUTHOR_NAME  
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation; either version 2 of the License, or
